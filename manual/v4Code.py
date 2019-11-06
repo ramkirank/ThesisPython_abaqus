@@ -1,5 +1,5 @@
 # run this script from abaqus
-# calculate difference and output txt files aacordingly
+# calculate difference and output txt files accordingly
 from abaqus import *
 from abaqusConstants import *
 import odbAccess, glob, numpy,os
