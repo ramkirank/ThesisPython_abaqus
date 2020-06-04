@@ -3,5 +3,5 @@ published at http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A1170340&dsw
 
 This code was used for ABAQUS scripting.
 Data from ODB files was extracted through ODB Access module in python. 
-This code would analyse ODB data(ABAQUS output file) and modify input to run next simulations ABAQUS. 
+This code would analyse ODB data(ABAQUS output file) and modify input to run next simulations in ABAQUS. 
 This code had saved us time by generating hundreds of simulations automatically.
